@@ -9,8 +9,7 @@ analogue vs. Likert-type scales submitted, defense in February 2027.
 Completed the qualification programme of the DFG research training group
 [*Statistical Modeling in Psychology*](https://www.uni-mannheim.de/smip/) (SMiP), 2023–2026.
 
-**Open to roles in applied statistics and data science from April 2027**,
-especially where measurement, surveys or experiments meet code.
+**Open to roles in applied statistics and data science from April 2027.**
 
 ### Featured projects
 
